@@ -17,14 +17,14 @@ Wish it was this simple
 - Minimal Size  & Dependencies
 - AppImage , Snap & Flatpak
 - Colors yay!
--
+- Proper Licensing
 
 
 
 
 ## REALITY:: 
 - 0 line of codes as of now will start soon
-
+- GUI Mockup going on
 
 
 
