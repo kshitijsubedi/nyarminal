@@ -31,11 +31,11 @@ Wish it was this simple
 ############################..................
 
 
- Plugin | README |
+ !!! | Remarks |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| Github | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
+| ETA | Next few months |
+| GUI | Qt (maybe) |
+| Linux | Arch linux |
+| Developer | 2 as of now|
+| Cat? | NO, we dont love cats  |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
