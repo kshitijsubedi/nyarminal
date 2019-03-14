@@ -37,5 +37,5 @@ Wish it was this simple
 | GUI | Qt (maybe) |
 | Linux | Arch linux |
 | Developer | 2 as of now|
-| Cat? | NO, we dont love cats  |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Cats? | NO, we dont love cats  |
+
