@@ -37,5 +37,5 @@ Wish it was this simple
 | GUI | Qt (maybe) |
 | Linux | Arch linux |
 | Developer | 2 as of now|
-| Cats? | NO, we dont love cats  |
+| Cats? | NO, we dont love cats but one of our developer is a cat (well just his name rhymes thats all) |
 
